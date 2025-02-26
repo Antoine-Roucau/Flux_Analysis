@@ -1,4 +1,4 @@
-# Flux Analysis
+# Flux Analysis (Group project : 3 people, myself included)
 
 ## Overview
 A comprehensive cybersecurity vulnerability monitoring and analysis tool that tracks ANSSI (French National Cybersecurity Agency) security bulletins, extracts CVE information, and provides analytical visualizations.
